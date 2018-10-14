@@ -1,0 +1,21 @@
+{
+  "name": "eslint-config-thefriendlybeasts",
+  "version": "1.0.1",
+  "description": "The Friendly Beasts' ESLint config",
+  "main": "index.js",
+  "repository": "thefriendlybeasts/eslint-config-thefriendlybeasts",
+  "author": "Curtis Blackwell <blackwell.curtis@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint": ">= 4"
+  },
+  "dependencies": {
+    "@vue/eslint-config-airbnb": "^3.0.0-rc.3",
+    "eslint-config-airbnb": "^17.0.0",
+    "eslint-plugin-vue": "^4.5.0"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ]
+}
