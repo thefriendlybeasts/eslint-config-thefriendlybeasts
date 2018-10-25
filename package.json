@@ -12,6 +12,7 @@
   "dependencies": {
     "@vue/eslint-config-airbnb": "^3.0.0-rc.3",
     "eslint-config-airbnb": "^17.0.0",
+    "eslint-plugin-import": "^2.14.0",
     "eslint-plugin-vue": "^4.5.0"
   },
   "keywords": [
