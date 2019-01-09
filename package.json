@@ -6,14 +6,11 @@
   "repository": "thefriendlybeasts/eslint-config-thefriendlybeasts",
   "author": "Curtis Blackwell <blackwell.curtis@gmail.com>",
   "license": "MIT",
-  "peerDependencies": {
-    "eslint": ">= 4"
-  },
   "dependencies": {
-    "@vue/eslint-config-airbnb": "^3.0.0-rc.3",
-    "eslint-config-airbnb": "^17.0.0",
+    "@vue/eslint-config-airbnb": "^4.0.0",
+    "eslint-config-airbnb": "^17.1.0",
     "eslint-plugin-import": "^2.14.0",
-    "eslint-plugin-vue": "^4.5.0"
+    "eslint-plugin-vue": "^5.1.0"
   },
   "keywords": [
     "eslint",
